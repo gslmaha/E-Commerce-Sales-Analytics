@@ -4,7 +4,7 @@
 
 This project demonstrates SQL-driven E-Commerce Sales Analytics using MySQL to extract, analyze, and report key business KPIs.
 The focus is on data modeling, complex SQL queries, and analytical insights.
-***
+
 
 🎯 Objectives
 
@@ -15,7 +15,7 @@ Use SQL to analyze sales, customer behavior, and returns
 Generate automated KPI reports for business decision-making
 
 Showcase strong proficiency in real-world SQL analytics
-***
+
 
 🛠️ SQL Skills 
 
